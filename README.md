@@ -18,7 +18,7 @@ About Me
 
 17年回青后，在什么值得买做了几年PHP和Golang开发，期间主导了k8s容器化和go替代php，参与个性化推荐等应用系统开发，坚持写了4年博客（yuerblog.cc，目前已经备份数据后关站了）
 
-* [php7-extension-explore](https://github.com/owenliang/php7-extension-explore)：做dianping/cat链路追踪要给PHP写无侵入买点，研究了写PHP C扩展
+* [php7-extension-explore](https://github.com/owenliang/php7-extension-explore)：做dianping/cat链路追踪要给PHP写无侵入埋点，研究了写PHP C扩展
 * [php-fpm-code-analysis](https://github.com/owenliang/php-fpm-code-analysis)：同上，研究了PHP-FPM的部分源码
 
 **✍️[Golang]**
