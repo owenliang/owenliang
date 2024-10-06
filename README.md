@@ -2,7 +2,7 @@
 
 ![owenliang](https://github-readme-stats.vercel.app/api?username=owenliang)
 
-I'm owenliang ，Coding爱好者，下面是个人经历总结。
+I'm owenliang ，Coding爱好者，很高兴认识你。
 
 About Me
 ---
