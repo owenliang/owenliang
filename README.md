@@ -45,7 +45,7 @@ Coding爱好者，下面是个人经历总结。
 
 **🥋[其他]**
 
-业余时间研究了一些感兴趣但没时间细看的东西
+业余时间研究了一些感兴趣，但之前没时间细看的东西
 
 * [leveldb](https://github.com/owenliang/leveldb)：源码完整读了一遍，进行了注释，补全了12年百度tera开发期间没搞透的东西
 * [search](https://github.com/owenliang/search)：读了一本倒排索引的书，用java写了一下倒排索引的demo，加深一下理解
