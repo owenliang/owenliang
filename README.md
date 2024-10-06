@@ -1,6 +1,11 @@
 ## owenliang 😀
 
-Coding爱好者，下面是个人经历总结。
+![owenliang](https://github-readme-stats.vercel.app/api?username=owenliang)
+
+I'm owenliang ，Coding爱好者，下面是个人经历总结。
+
+About Me
+---
 
 **⚡[C/C++]**
 
@@ -51,3 +56,8 @@ Coding爱好者，下面是个人经历总结。
 * [search](https://github.com/owenliang/search)：读了一本倒排索引的书，用java写了一下倒排索引的demo，加深一下理解
 * [mha-py](https://github.com/owenliang/mha-py)：研究了一下mysql5.7主从复制原理，仿照orc流程写了一个主从切换demo
 * [springcloud-demo](https://github.com/owenliang/springcloud-demo)：由于甲方和售卖的中间件基本是java栈，所以把spring框架部分投了一些精力研究原理和用法
+
+Share
+--- 
+
+* ☞☞ [小鱼儿at青岛](https://space.bilibili.com/288748846/video)： 我的B站视频，新研究的东西基本会录成视频分享出去。
