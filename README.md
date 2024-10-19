@@ -47,6 +47,7 @@ About Me
 * [nano-graphrag](https://github.com/owenliang/nano-graphrag)：微软graphrag技术的源码研究
 * [vanna-chatbi](https://github.com/owenliang/vanna-chatbi)：ChatBI场景的源码研究
 * [xgboost-py](https://github.com/owenliang/xgboost-py)：趁热打铁，回头研究xgboost树模型理论，完成复现
+* [ddp-demo](https://github.com/owenliang/ddp-demo)：探索torch集合通讯原语，支撑分布式训练理解
 
 **🥋[其他]**
 
