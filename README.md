@@ -48,6 +48,7 @@ About Me
 * [vanna-chatbi](https://github.com/owenliang/vanna-chatbi)：ChatBI场景的源码研究
 * [xgboost-py](https://github.com/owenliang/xgboost-py)：趁热打铁，回头研究xgboost树模型理论，完成复现
 * [ddp-demo](https://github.com/owenliang/ddp-demo)：探索torch集合通讯原语，支撑分布式训练理解
+* [yolov1](https://github.com/owenliang/yolov1)：复现yolo v1目标检测算法，CV经典模型
 
 **🥋[其他]**
 
