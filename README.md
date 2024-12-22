@@ -2,21 +2,21 @@
 
 ![owenliang](https://github-readme-stats.vercel.app/api?username=owenliang)
 
-I'm owenliang ，Coding爱好者，很高兴认识你。
+I'm owenliang.
 
 About Me
 ---
 
 **⚡[C/C++]**
 
-12年毕业后，在北京百度做了5年C/C++服务端开发。
+12年毕业在北京百度从事5年C/C++服务端开发。
 
 * [simple_kit](https://github.com/owenliang/simple_kit)：业余时间封装的epoll网络库，工作期间天天libevent天天异步已经麻了
 * [tera](https://github.com/baidu/tera)：百度期间参与的表格存储项目，参与了部分leveldb魔改和SDK开发，后来开源了
 
 **🖋[PHP]**
 
-17年回青后，在什么值得买做了几年PHP和Golang开发，期间主导了k8s容器化和go替代php，参与个性化推荐等应用系统开发，坚持写了4年博客（yuerblog.cc，目前已经备份数据后关站了）
+17年回青后，在值得买做了几年PHP和Golang研发，期间主导了k8s容器化和go替代php，参与个性化推荐等应用系统开发，期间写了4年博客（yuerblog.cc，备份找新地方开站中）
 
 * [php7-extension-explore](https://github.com/owenliang/php7-extension-explore)：做dianping/cat链路追踪要给PHP写无侵入埋点，研究了写PHP C扩展
 * [php-fpm-code-analysis](https://github.com/owenliang/php-fpm-code-analysis)：同上，研究了PHP-FPM的部分源码
@@ -31,7 +31,7 @@ About Me
 
 **🏃[AI]**
 
-21年跳槽阿里云，转型解决方案架构师（SA），上班基本不再需要写代码。业余时间研究了一些AI算法原理和实现，期间开始在BiliBili录制一些分享视频。
+21年跳槽阿里云，转型解决方案架构师（SA），工作不再需要做开发。业余时间研究了一些AI算法原理和实现，期间开始在BiliBili录制一些分享视频。
 
 * [learnpytorch](https://github.com/owenliang/learnpytorch)：最早懵懵懂懂学pytorch框架，不太清楚底层原理
 * [another-pytorch](https://github.com/owenliang/another-pytorch)：深入到深度学习底层原理，复现pytorch框架，开始入门
