@@ -43,7 +43,7 @@ About Me
 * [chatgpt](https://github.com/owenliang/chatgpt)：基于前面的积累，复现了decoder-only的GPT模型
 * [qwen-dpo](https://github.com/owenliang/qwen-dpo)：陆续跟进了一些阿里云Qwen大模型的技术，比如DPO训练的复现
 * [qwen-vllm](https://github.com/owenliang/qwen-vllm)：基于asyncio封装推理服务，对vLLM封装的研究
-* [mnist-onnx-runtime](https://github.com/owenliang/mnist-onnx-runtime)：onnx推理框架的使用研究
+* [mnist-onnx-runtime](https://github.com/owenliang/mnist-onnx-runtime)：onnx推理框架的使用研究，包括复现MoE模型
 * [nano-graphrag](https://github.com/owenliang/nano-graphrag)：微软graphrag技术的源码研究
 * [vanna-chatbi](https://github.com/owenliang/vanna-chatbi)：ChatBI场景的源码研究
 * [xgboost-py](https://github.com/owenliang/xgboost-py)：趁热打铁，回头研究xgboost树模型理论，完成复现
