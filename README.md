@@ -50,6 +50,7 @@ About Me
 * [ddp-demo](https://github.com/owenliang/ddp-demo)：探索torch集合通讯原语，支撑分布式训练理解
 * [yolov1](https://github.com/owenliang/yolov1)：复现yolo v1目标检测算法，CV经典模型
 * [wakeword-torch](https://github.com/owenliang/wakeword-torch)：复现唤醒词识别算法，1D卷积+LSTM时序
+* [qwen2.5-0.5b-grpo](https://github.com/owenliang/qwen2.5-0.5b-grpo)：基于通义千问2.5的0.5B模型，复现DeepSeek R1的顿悟时刻
 
 **🥋[其他]**
 
