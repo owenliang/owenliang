@@ -51,6 +51,7 @@ About Me
 * [yolov1](https://github.com/owenliang/yolov1)：复现yolo v1目标检测算法，CV经典模型
 * [wakeword-torch](https://github.com/owenliang/wakeword-torch)：复现唤醒词识别算法，1D卷积+LSTM时序
 * [qwen2.5-0.5b-grpo](https://github.com/owenliang/qwen2.5-0.5b-grpo)：基于通义千问2.5的0.5B模型，复现DeepSeek R1的顿悟时刻
+* [RoPE embedding](https://github.com/owenliang/RoPE)：实现RoPE Eembedding，好像除了原理有点抽象，实现并没有什么特殊
 
 **🥋[其他]**
 
