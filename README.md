@@ -52,6 +52,9 @@ About Me
 * [wakeword-torch](https://github.com/owenliang/wakeword-torch)：复现唤醒词识别算法，1D卷积+LSTM时序
 * [qwen2.5-0.5b-grpo](https://github.com/owenliang/qwen2.5-0.5b-grpo)：基于通义千问2.5的0.5B模型，复现DeepSeek R1的顿悟时刻
 * [RoPE embedding](https://github.com/owenliang/RoPE)：实现RoPE Eembedding，好像除了原理有点抽象，实现并没有什么特殊
+* [ner-bert-crf](https://github.com/owenliang/ner-bert-crf)：基于预训练bert，外挂CRF层，实现NLP实体识别模型
+* [mcp-sse-python](https://github.com/owenliang/mcp-sse-python)：30行代码实现SSE MCP Server
+* [torch-thins](https://github.com/owenliang/torch-thins)：Pytorch训练技巧，包括：AMP、Activation Checkpoint、Gradient Accumulation
 
 **🥋[其他]**
 
