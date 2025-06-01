@@ -2,7 +2,6 @@
 
 I'm owenliang.
 
-About Me
 ---
 
 **⚡[C/C++]**
