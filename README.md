@@ -1,7 +1,5 @@
 ## owenliang 😀
 
-![owenliang](https://github-readme-stats.vercel.app/api?username=owenliang)
-
 I'm owenliang.
 
 About Me
@@ -55,6 +53,7 @@ About Me
 * [ner-bert-crf](https://github.com/owenliang/ner-bert-crf)：基于预训练bert，外挂CRF层，实现NLP实体识别模型
 * [mcp-sse-python](https://github.com/owenliang/mcp-sse-python)：30行代码实现SSE MCP Server
 * [torch-thins](https://github.com/owenliang/torch-thins)：Pytorch训练技巧，包括：AMP、Activation Checkpoint、Gradient Accumulation
+* [torch-fm](https://github.com/owenliang/torch-fm)：扩散模型flow matching复现，基于MNIST手写数字数据集
 
 **🥋[其他]**
 
