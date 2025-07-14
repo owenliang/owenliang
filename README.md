@@ -55,6 +55,7 @@ I'm owenliang.
 * [torch-fm](https://github.com/owenliang/torch-fm)：扩散模型flow matching复现，基于MNIST手写数字数据集
 * [torch-vae](https://github.com/owenliang/torch-vae)：VAE变分自编码，实现（图像）等数据的压缩与解压
 * [transformer-asr](https://github.com/owenliang/transformer-asr)：transformer seq2seq实现ASR语音转文字
+* [asr-ctc](https://github.com/owenliang/asr-ctc)：transformer encoder+ctc loss对齐训练ASR，非seq2seq
 
 **🥋[其他]**
 
