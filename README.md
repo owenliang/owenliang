@@ -56,6 +56,7 @@ I'm owenliang.
 * [torch-vae](https://github.com/owenliang/torch-vae)：VAE变分自编码，实现（图像）等数据的压缩与解压
 * [transformer-asr](https://github.com/owenliang/transformer-asr)：transformer seq2seq实现ASR语音转文字
 * [asr-ctc](https://github.com/owenliang/asr-ctc)：transformer encoder+ctc loss对齐训练ASR，非seq2seq
+* [hf-ppo](https://github.com/owenliang/hf-ppo)：基于Huggingface TRL库，PPO训练Qwen2.5模型
 
 **🥋[其他]**
 
