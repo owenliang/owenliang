@@ -57,6 +57,7 @@ I'm owenliang.
 * [transformer-asr](https://github.com/owenliang/transformer-asr)：transformer seq2seq实现ASR语音转文字
 * [asr-ctc](https://github.com/owenliang/asr-ctc)：transformer encoder+ctc loss对齐训练ASR，非seq2seq
 * [hf-ppo](https://github.com/owenliang/hf-ppo)：基于Huggingface TRL库，PPO训练Qwen2.5模型
+* [mnist-vq-vae](https://github.com/owenliang/mnist-vq-vae): VQ-VAE量化模型，实现图像tokenizer
 
 **🥋[其他]**
 
