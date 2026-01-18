@@ -62,6 +62,8 @@ I'm owenliang.
 * [agentsocpe-fastapi](https://github.com/owenliang/agentsocpe-fastapi)：阿里agentscope-py框架如何与fastapi异步框架结合
 * [MiniOneRec](https://github.com/owenliang/MiniOneRec)：基于LLM的生成式商品推荐，开源项目的源码分析
 * [VICP](https://github.com/owenliang/VICP)：安防场景IPC摄像头的人物重识别（ReID），基于DINO Emb对比训练+LLM提示词注入加强
+* [deepagent](https://github.com/owenliang/deepagent)：langchain的deepagent智能体源码分析，包括文件工具，规划工具，上下文offload、压缩等
+* [Isaac-GR00T](https://github.com/owenliang/Isaac-GR00T)：NVIDIA的GR00T VLA具身模型1.6版本，源码分析VLA模型、训练推理架构
 
 **🥋[其他]**
 
