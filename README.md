@@ -64,6 +64,7 @@ I'm owenliang.
 * [VICP](https://github.com/owenliang/VICP)：安防场景IPC摄像头的人物重识别（ReID），基于DINO Emb对比训练+LLM提示词注入加强
 * [deepagent](https://github.com/owenliang/deepagent)：langchain的deepagent智能体源码分析，包括文件工具，规划工具，上下文offload、压缩等
 * [Isaac-GR00T](https://github.com/owenliang/Isaac-GR00T)：NVIDIA的GR00T VLA具身模型1.6版本，源码分析VLA模型、训练推理架构
+* [openclaw](https://github.com/owenliang/openclaw): 基于agentscope框架开发的智能体，支持mcp,skill等基础能力
 
 **🥋[其他]**
 
