@@ -65,6 +65,7 @@ I'm owenliang.
 * [deepagent](https://github.com/owenliang/deepagent)：langchain的deepagent智能体源码分析，包括文件工具，规划工具，上下文offload、压缩等
 * [Isaac-GR00T](https://github.com/owenliang/Isaac-GR00T)：NVIDIA的GR00T VLA具身模型1.6版本，源码分析VLA模型、训练推理架构
 * [openclaw](https://github.com/owenliang/openclaw): 基于agentscope框架开发的智能体，支持mcp,skill等基础能力
+* [LLM-Wiki](https://github.com/owenliang/llm-wiki)：实现karpathy的llm-wiki SKILL
 
 **🥋[其他]**
 
